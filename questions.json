@@ -1,0 +1,272 @@
+{
+  "heading": "G6_Cross Sections",
+  "topics": [
+    {
+      "heading": "Cross Sections",
+      "questions": [
+
+  {
+    "questionNo": 1,
+    "question": [
+      "A specific geometric feature is revealed when we slice directly through a solid object. Which of the following best defines a <b>cross section</b> in geometry?"
+    ],
+    "options": [
+      "The total surface area of all the flat faces on a 3D object.",
+      "The total volume of material required to build a 3D object.",
+      "The 2D shape exposed when cutting straight through a 3D object.",
+      "The longest continuous straight edge of a polyhedron."
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "When an architect slices completely through a physical 3D model along a <b>straight flat plane</b>, a new flat face is suddenly exposed on the inside. What is the <b>formal mathematical term</b> for this newly exposed 2D shape?"
+    ],
+    "options": [
+      "A lateral boundary",
+      "A vertex",
+      "A cross section",
+      "A planar net"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Imagine a perfectly round solid chocolate truffle, which we will treat as a perfect geometric <b>sphere</b>. If a pastry chef cuts straight down through this truffle along a <b>vertical plane</b>, what 2D shape will the exposed cross section be?"
+    ],
+    "options": [
+      {
+        "image": "./assests/images/question/3a.png"
+      },
+      {
+        "image": "./assests/images/question/3c.png"
+      },
+      {
+        "image": "./assests/images/question/3b.png"
+      },
+      {
+        "image": "./assests/images/question/3d.png"
+      }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A solid steel ball bearing is a perfect 3D <b>sphere</b>. A heavy industrial laser cuts completely through the ball bearing along a perfectly <b>horizontal plane</b>. What 2D shape is the resulting cross section?"
+    ],
+    "options": [
+      "A rectangle",
+      "A hexagon",
+      "A circle",
+      "A cylinder"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Look at the diagram below showing a <b>vertical cut</b> through a <b>cylinder</b>:",
+      "<br>If a machine cuts straight down along the vertical plane through a solid cylinder, what 2D shape is the resulting cross section?"
+    ],
+    "options": [
+      {
+        "image": "./assests/images/question/5b.png"
+      },
+      {
+        "image": "./assests/images/question/5c.png"
+      },
+      {
+        "image": "./assests/images/question/5a.png"
+      },
+      {
+        "image": "./assests/images/question/5d.png"
+      }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A decorative pillar candle is shaped like a perfect <b>cylinder</b> standing upright on a table. A craftsperson uses a hot wire cutter to slice <b>straight down vertically</b> from the top flat face to the bottom flat face. What 2D shape is revealed on the cut surface?"
+    ],
+    "options": [
+      "A square",
+      "A circle",
+      "A trapezium",
+      "A rectangle"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "Look at the diagram below showing a <b>horizontal cut</b> through a <b>cylinder</b>:",
+      "<br>If we slice straight across a solid cylinder along a horizontal plane (perfectly parallel to its bases), what 2D shape is the resulting cross section?"
+    ],
+    "options": [
+      {
+        "image": "./assests/images/question/7c.png"
+      },
+      {
+        "image": "./assests/images/question/7a.png"
+      },
+      {
+        "image": "./assests/images/question/7b.png"
+      },
+      {
+        "image": "./assests/images/question/7d.png"
+      }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/6.png"
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A chef has a solid <b>cylindrical</b> block of fondant resting upright on a cutting board. He takes a long blade and slices <b>perfectly horizontally</b> through the middle of the fondant block. What is the 2D shape of the newly exposed cross section?"
+    ],
+    "options": [
+      "A sphere",
+      "A rectangle",
+      "A hexagon",
+      "A circle"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Look at the diagram below showing a solid <b>cone</b> being cut <b>horizontally</b>:",
+      "<br>If a carpenter slices straight across a wooden cone along a horizontal plane (parallel to its base), what 2D shape is the resulting cross section?"
+    ],
+    "options": [
+      {
+        "image": "./assests/images/question/9c.png"
+      },
+      {
+        "image": "./assests/images/question/9b.png"
+      },
+      {
+        "image": "./assests/images/question/9d.png"
+      },
+      {
+        "image": "./assests/images/question/9a.png"
+      }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/8.png"
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "A solid decorative paperweight is shaped exactly like a <b>cone</b>, resting on its flat circular base on a desk. A machine uses a laser to cut <b>horizontally</b> straight through the middle of the paperweight, parallel to the desk. What 2D shape is the cross section?"
+    ],
+    "options": [
+      "A triangle",
+      "A circle",
+      "A square",
+      "A cylinder"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Look at the diagram below showing an object shaped like a <b>torus</b> (a ring or donut) being cut <b>horizontally</b>:",
+      "<br>If you take a solid torus and slice exactly through the middle along a horizontal plane, what does the resulting 2D cross section look like?"
+    ],
+    "options": [
+      {
+        "image": "./assests/images/question/11a.png"
+      },
+      {
+        "image": "./assests/images/question/7a.png"
+      },
+      {
+        "image": "./assests/images/question/7b.png"
+      },
+      {
+        "image": "./assests/images/question/7c.png"
+      }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/10.png"
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "A solid rubber gasket used in plumbing is shaped exactly like a <b>torus</b>. In a quality control test, a machine slices it <b>perfectly horizontally</b> through the middle, parallel to the table. What 2D shape is formed by the exposed cross section?"
+    ],
+    "options": [
+      "A solid rectangle",
+      "Two separate side-by-side small circles",
+      "A single solid circle",
+      "Two concentric circles forming a ring"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "Consider a solid <b>cylinder</b>. We understand that 3D shapes can have more than one type of cross section depending on the cutting angle. Depending on which way you cut a cylinder, the cross section can be either a <b>rectangle</b> OR a ______.",
+      "<br> "
+    ],
+    "options": [
+      "square",
+      "circle",
+      "triangle",
+      "trapezium"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "A geometry student is tasked with matching various 2D cross sections back to their original 3D objects. The student finds a flat 2D <b>rectangle</b>. Which of the following 3D shapes could <b>NOT</b> possibly produce a rectangular cross section?"
+    ],
+    "options": [
+      "A cylinder",
+      "A sphere",
+      "A rectangular prism",
+      "A triangular prism"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "If the cross section of an unknown solid object is <b>perfectly circular</b>, which of the following shapes could the solid possibly be?"
+    ],
+    "options": [
+      "A cylinder, a sphere, or a cone",
+      "A sphere only",
+      "A cone only",
+      "A cylinder only"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "You are handed a flat 2D <b>circle</b> and asked to identify which 3D solid it originally came from. Why is it <b>mathematically impossible</b> to know for sure if it came from a sphere, a cylinder, or a cone just by examining the circular cross section?"
+    ],
+    "options": [
+      "Because cones only ever produce triangular cross sections.",
+      "Because cylinders only ever produce rectangular cross sections.",
+      "Because a circle cannot legally be a cross section.",
+      "Because many different 3D shapes can share the exact same 2D cross sections depending on how they are cut."
+    ],
+    "answer": 3
+  }
+
+
+
+      ]
+    }
+  ]
+}
